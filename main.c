@@ -2,5 +2,5 @@
 
 int main()
 {
-    printf("Hello, ICS! I am learning Git.\n");
+    printf("Hello from feature branch!\n");
 }
