@@ -2,5 +2,5 @@
 
 int main()
 {
-    printf("Hello from main branch!\n");
+    printf("Hello from both main and feature branches!\n");
 }
